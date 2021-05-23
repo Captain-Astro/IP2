@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="Flix.in" group-title="Movies" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="priveHD.in" group-title="Movies" tvg-logo="N/A",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="80sLoop.us" group-title="Music" tvg-logo="https://i.imgur.com/jxY0QSw.png",80s Loop (1080p)
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="BBCEarth.uk" group-title="N/A" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  tvg-id="BBCFour.uk" group-title="N/A" tvg-logo="N/A",BBC Four (540p) [Geo-Blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1  tvg-id="1HDMusicTelevision.ru" group-title="Music" tvg-logo="N/A",1HD Music Television
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="1Mus.hu" group-title="Music" tvg-logo="https://i.imgur.com/PozF9MT.png",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://i.imgur.com/Q0Y3sT5.png",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BOX TV
+https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Chopper Town
+https://6c4d10b7b847421db903914a39b00eb7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-PLEX/67d41d7e-f2c4-4005-abab-22174f1f8b43/0.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522",ChopperTown
+https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-id="df4355" group-title="N/A" tvg-logo="https://i.imgur.com/E9MqXzl.png",Choppertown
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-id="ChoppertownSTIRR.us" group-title="N/A" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",Choppertown (STIRR) (720p)
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+#EXTINF:-1  tvg-id="Dust.us" group-title="Movies" tvg-logo="N/A",Dust (720p)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#EXTINF:-1  tvg-id="Dust.uk" group-title="Dust" tvg-logo="https://i.imgur.com/pXXUmuW.jpg",Dust (720p)
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="DUST.au" group-title="Dust" tvg-logo="https://i.imgur.com/pXXUmuW.jpg",DUST (720p)
+https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="Dust.uk" group-title="N/A" tvg-logo="https://i.imgur.com/6LBIDFo.png",Dust (720p)
+https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="DUST.de" group-title="Dust" tvg-logo="https://i.imgur.com/pXXUmuW.jpg",DUST (720p)
+https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Dust" tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png",Dust
+https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/DUST_190X190.png?raw=true",Dust
+https://dust.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Dustx" tvg-logo="N/A",DUSTx
+https://dust.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:-1  tvg-id="DUSTx.us" group-title="Movies" tvg-logo="https://i.imgur.com/9Xc7Q7S.jpg",DUSTx (720p)
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Hallmark
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
+#EXTINF:-1  tvg-id="HallmarkChannel.us" group-title="Movies" tvg-logo="https://i.imgur.com/FMgtqM8.jpg",Hallmark Channel (720p)
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="HallmarkDrama.us" group-title="Movies" tvg-logo="https://i.imgur.com/RHbmKUV.jpg",Hallmark Drama (720p)
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png",Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
+#EXTINF:-1  tvg-id="HallmarkMoviesMore.us" group-title="Movies" tvg-logo="https://i.imgur.com/hcLUKfv.jpg",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="HallmarkMoviesMysteries.us" group-title="Movies" tvg-logo="https://i.imgur.com/IytaaVV.jpg",Hallmark Movies & Mysteries (720p)
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7H4ZZVpypexXqbp7Devw9Jo8H1FMPIv4eA&usqp=CAU",ITV PATAGONIA HD
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
+#EXTINF:-1  tvg-id="ITVUK.uk" group-title="N/A" tvg-logo="N/A",ITV UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+#EXTINF:-1  tvg-id="ITV2.uk" group-title="N/A" tvg-logo="N/A",ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1  tvg-id="ITV3.uk" group-title="N/A" tvg-logo="N/A",ITV3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1  tvg-id="ITV4.uk" group-title="N/A" tvg-logo="N/A",ITV4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1  tvg-id="8c6008" group-title="N/A" tvg-logo="https://i.imgur.com/GQm7gGq.png",Made in Hollywood (720p)
+https://connection3-ent.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="MiamiTV.us" group-title="XXX" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1  tvg-id="MiamiTV.us" group-title="XXX" tvg-logo="https://i.imgur.com/JmUUVL1.png",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
+#EXTINF:-1  tvg-id="MiamiTV.us" group-title="XXX" tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w2005472791_b2592000.m3u8
+#EXTINF:-1  tvg-id="MiamiTV.us" group-title="XXX" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+#EXTINF:-1  tvg-id="MiamiTVJenny2.us" group-title="XXX" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true",Miami TV Jenny 2 (720p)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1  tvg-id="MiamiTVJennyLive.us" group-title="XXX" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true",Miami TV Jenny Live (720p)
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1  tvg-id="MiamiTVJennyLive.us" group-title="XXX" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1  tvg-id="MiamiTVLatino.us" group-title="XXX" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1  tvg-id="MiamiTVLatino.us" group-title="XXX" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true",Miami TV Latino (720p)
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
+#EXTINF:-1  tvg-id="MOVIESPHERE.us" group-title="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU",MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1  tvg-id="MovieMix.us" group-title="N/A" tvg-logo="https://i.imgur.com/qcgXbuC.png",MovieMix (720p)
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="MoviesCentral.fr" group-title="N/A" tvg-logo="https://i.imgur.com/dwOoEmE.jpg",Movies Central (720p)
+https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="MoviesCentral.uk" group-title="N/A" tvg-logo="https://i.imgur.com/dwOoEmE.jpg",Movies Central (720p)
+https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="MoviesKingdom.us" group-title="Movies" tvg-logo="N/A",Movies Kingdom (720p)
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png",MovieSphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Moviesphere
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Moviesphere (England)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="MoviesphereFree.us" group-title="Movies" tvg-logo="https://i.imgur.com/DTXQ3Pc.png",Moviesphere Free (1080p)
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Moviesphere UK
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Pluto_TV_007_190x190.png?raw=true",Pluto 007
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/PlutoTV_Cars_190x190.png?raw=true",Pluto Cars
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
