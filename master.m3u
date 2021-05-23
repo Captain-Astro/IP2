@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="Flix.in" group-title="Movies" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1  tvg-id="priveHD.in" group-title="Movies" tvg-logo="N/A",&privé HD
+#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" group-title="Movies",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-id="80sLoop.us" group-title="Music" tvg-logo="https://i.imgur.com/jxY0QSw.png",80s Loop (1080p)
 https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
@@ -21,29 +21,29 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Chopper Town
 https://6c4d10b7b847421db903914a39b00eb7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-PLEX/67d41d7e-f2c4-4005-abab-22174f1f8b43/0.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522",ChopperTown
+#EXTINF:-1 tvg-id="" tvg-name="ChopperTown" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522" group-title="",ChopperTown
 https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="df4355" group-title="N/A" tvg-logo="https://i.imgur.com/E9MqXzl.png",Choppertown
+#EXTINF:-1 tvg-id="df4355" tvg-name="Choppertown" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/E9MqXzl.png" group-title="",Choppertown
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="ChoppertownSTIRR.us" group-title="N/A" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",Choppertown (STIRR) (720p)
+#EXTINF:-1 tvg-id="ChoppertownSTIRR.us" tvg-name="Choppertown (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="",Choppertown (STIRR) (720p)
 https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
 #EXTINF:-1  tvg-id="Dust.us" group-title="Movies" tvg-logo="N/A",Dust (720p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
-#EXTINF:-1  tvg-id="Dust.uk" group-title="Dust" tvg-logo="https://i.imgur.com/pXXUmuW.jpg",Dust (720p)
+#EXTINF:-1 tvg-id="Dust.uk" tvg-name="Dust" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="",Dust (720p)
 https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="DUST.au" group-title="Dust" tvg-logo="https://i.imgur.com/pXXUmuW.jpg",DUST (720p)
+#EXTINF:-1 tvg-id="DUST.au" tvg-name="DUST" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="",DUST (720p)
 https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="Dust.uk" group-title="N/A" tvg-logo="https://i.imgur.com/6LBIDFo.png",Dust (720p)
+#EXTINF:-1 tvg-id="Dust.uk" tvg-name="Dust" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6LBIDFo.png" group-title="",Dust (720p)
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="DUST.de" group-title="Dust" tvg-logo="https://i.imgur.com/pXXUmuW.jpg",DUST (720p)
+#EXTINF:-1 tvg-id="DUST.de" tvg-name="DUST" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="",DUST (720p)
 https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Dust" tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png",Dust
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png" group-title="",Dust
 https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/DUST_190X190.png?raw=true",Dust
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/DUST_190X190.png?raw=true" group-title="",Dust
 https://dust.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Dustx" tvg-logo="N/A",DUSTx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",DUSTx
 https://dust.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:-1  tvg-id="DUSTx.us" group-title="Movies" tvg-logo="https://i.imgur.com/9Xc7Q7S.jpg",DUSTx (720p)
+#EXTINF:-1 tvg-id="DUSTx.us" tvg-name="DUSTx" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9Xc7Q7S.jpg" group-title="Movies",DUSTx (720p)
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Hallmark
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
